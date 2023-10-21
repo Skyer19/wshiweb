@@ -526,7 +526,6 @@ header {
   background-color: #FFC0CB;
   color: #fff;
   border-radius: 20px 0 20px 0;
-  box-shadow: 0 3px 0px #0D7377;
   font-weight: bold;
 }
 .header .menu .menu__item + .menu__item {
